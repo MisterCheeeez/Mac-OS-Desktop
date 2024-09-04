@@ -1,12 +1,12 @@
-## Hello World 👋
-I am planing to make a mac OS simulator using HTML, CSS, and JavaScript 😀
+## Info
+Forked from mhmdmhd6
 
 <h1>
-  Mac Os Monterey
+  Mac OS Monterey in HTML
 </h1>
 
 Try it now! :
-https://mhmdmhd6.github.io/Mac-OS-Desktop
+https://MisterCheeeez.github.io/Mac-OS-Desktop
 
 <p align="center">
   Sample Desktop Application 👇
